@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello, This is Jihee Seon.  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathlover27@gmail.com)](mailto:mathlover27@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://JiheeSeon.github.io/)](https://JiheeSeon.github.io/)
 - 🏹 Focusing on enhancing PS Skills.
